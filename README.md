@@ -64,3 +64,8 @@ Task hijacking is also known as **StrandHogg** vulnerability**.**
 * Set the launchMode to **singleInstance** which will prevent other activities from becoming a part of it’s task.
 * A custom **onBackPressed()** function can also be added, to override the default behaviour.
 * Setting `taskAffinity=""` can be a quick fix for this issue.
+
+# Credits for reference material
+- <https://github.com/az0mb13/Task_Hijacking_Strandhogg>
+- <https://docs.fluidattacks.com/criteria/vulnerabilities/347/#non-compliant-code>
+
