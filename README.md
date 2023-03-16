@@ -48,7 +48,7 @@ Now save and run the project, Android Studio will install and run the applicatio
 
 If you prefer an APK you can follow the step in the screenshots below to build an APK to install on another device or emulator:
 
-<figure><img src="/screenshots/Screenshot 2023-03-15 at 12.41.55 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="/screenshots/Screenshot 2023-03-15 at 12.41.55.png" alt=""><figcaption></figcaption></figure>
 
 * Now, when the user opens the attacker’s app. it immediately minimises the task.
 * It will not be shown in the **recent apps** as well.
