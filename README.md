@@ -20,12 +20,13 @@ By default, every activity has the same affinity as the **package** name.
 
 ### Grep for singletask to check if Vulnerability exists
 
-<pre><code><strong>apktool d com.example.app
-</strong>cd com.example.app
-
+<pre>
+<code>
+apktool d com.example.app
+cd com.example.app
 grep -r singleTask .                                                                                  
-
-</code></pre>
+</code>
+</pre>
 
 If we find the activity whose launchMode is set to **singleTask** then we can hijack the task as it is vulnerable.
 
