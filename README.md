@@ -1,2 +1,3 @@
-# android-task-hijacking
-A POC for android task hijacking
+# Android Task Hijacking - Proof of Concept
+
+
